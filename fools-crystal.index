@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Fool's Crystal Adventure</name>
+		<description>Arcane Minis' First Patreon Adventure</description>
+		<update version="0.0.1">
+			<file name="Fool's Crystal Adventure.index" url="https://github.com/PhidelisH2o/airships/blob/main/fools-crystal.index" />
+		</update>
+	</info>
+	<files>
+		<file name="race-odari.xml" url="https://github.com/PhidelisH2o/airships/blob/main/race-odari.xml" />
+	</files>
+</index>
