@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<elements>
+  <info>
+    <update version="0.0.1">
+      <file name="Odari.xml" />
+    </update>
+  </info>
+  <element name="Odari" type="Race" source="Fool's Crystal Adventure" id="ID_AM_FCA_RACE_ODARI">
+    <description>
+      <p>Originally servants to the masses, the shardforged, or odari as they prefer to be called, used to be ordinary shard constructs until they gained sentience roughly a millennium ago. For centuries they served as mindless machines, bound by their control devices until a convergence storm struck the entirety of Sordane, causing all of the shardforged to cease functioning as their sordalite cores' boundless energy seemingly expired. For minutes each shardforged across Sordane remained inactive until the storm struck again, causing them to reactivate, this time with sentience, unbound from their masters.</p>
+      <p class="indent">Their sudden awakening caused a power struggle across Sordane, as the shardforged fought to gain their independence and rights as a living race, and the rest of the world sought to reclaim their servants despite their newfound sentience. The war for independence was led by the hero of the odari, Odari Gold, who eventually led them to victory in the Construct War after 62 years. Now, roughly 1,000 years later, Odari Gold still leads the odari as their “eternal king.”</p>
+      <h4>SOCIETY</h4>
+      <p>Since winning their independence, the odari have created the floating city of Odaria, a city built upon countless soralite platforms, allowing the traveling city to endlessly expand and accommodate new citizens. A city that can expand was a necessity for the odari, as given their metallic bodies and sordalite crystal core, none have died from old age despite most having been created more than a thousand years ago. Odarians have a strong sense of kinship for those that remain within the city, seeking to support each other and help their community grow whenever mining expeditions return a sordalite bounty. Despite these bonds there are those who leave Odaria, or were constructed in distant lands; this time apart and unfamiliarity causes their racial kinship to wane, often leading to conflicting views on life between those who remain in Odaria and those who grew up elsewhere or chose to leave.</p>
+      <h4>INDIVIDUAL PURPOSE</h4>
+      <p>When a new odari is constructed, the only component of its form that truly matters is its sordalite core. Because of this, the design of their body is based around the purpose their family has selected for them to fulfill. Once their construction is completed, a new odari typically accepts their chosen purpose, however, some have been known to reject it; choosing a life of adventure instead. To prevent this some families have adopted a simplistic form for their would-be children, allowing them to choose their role as they grow. Regardless of which process is used, an odari will typically continue to upgrade and transform its original body into one more suited to its purpose, allowing the odari to better serve the community. Those living in Odaria develop a sense of pride in bettering themselves to fulfill their role, even going as far as naming themselves after their assigned function so that others know what their purpose is.</p>
+      <h4>DISTRUST AND DEVELOPMENT</h4>
+      <p>Odari who live within Odaria are viewed by outsiders as cogs in a machine working to better their society with a singular obsession. Their personalities are typically stunted by a lack of exposure to foreign cultures. These Odarians have forgiven and accepted the other races despite their history of oppression, but are quick to distrust them, often causing issues for travelers visiting Odaria for the first time. Some odari are extremists, trusting only each other and shunning interaction with the other races of Sordane.</p>
+      <p class="indent">Odari who leave the cultural bubble that is Odaria, however, often seek out friendship, finding people from all walks of life whom they grow to cherish. These friendships impact an odari’s personality, causing them to grow and develop as individuals, and often leads to their closest friend granting them a new name. Once they find a friend they respect and cherish, an odari will seek to emulate them, typically going as far as learning a profession or finding similar employment regardless of the organization.</p>
+      <h4>ODARI TRAITS</h4>
+      <p>Your odari character has been outfitted with a number of traits; your customized body allowing you to excel in multiple disciplines.</p>
+      <p class="indent">
+        <strong>
+          <em>Creature Type.</em>
+        </strong> You are a Humanoid. You are also considered a Construct for any prerequisite or effect that requires you to be a Construct.</p>
+      <p class="indent">
+        <strong>
+          <em>(Optional Trait) Ability Score Increase.</em>
+        </strong> One ability score of your choice increases by 2, and one other ability score of your choice increases by 1.</p>
+      <p class="indent">
+        <strong>
+          <em>Age.</em> The oldest odari are more than 1,000 years old. While the parts forming their bodies have deteriorated and been replaced over time, their sordalite cores are functioning without issue. It is unknown how long an odari can live.</strong>
+      </p>
+      <p class="indent">
+        <strong>
+          <em>(Optional Trait) Alignment.</em>
+        </strong> Those living in Odaria are typically neutral good as they strive to help each other. Odari who leave, however, may take on any alignment as their personalities evolve afte rbuilding bonds with non-odari.</p>
+      <p class="indent">
+        <strong>
+          <em>Size.</em>
+        </strong> Odari have no standard height since their bodies can be customized, though it is typical for adventuring Odari to stand roughly 6 feet in height. Odari typically weigh between 300 and 500 pounds. Your size is medium.</p>
+      <p class="indent">
+        <strong>
+          <em>Speed.</em>
+        </strong> Your base walking speed is 30 feet.</p>
+      <p class="indent">
+        <strong>
+          <em>Constructed Form.</em>
+        </strong> Your body is powered using the boundless energy of a sordalite core, granting you the following benefits:</p>
+      <ul>
+        <li> You don't need to eat, drink, or breathe.</li>
+        <li> You don't age, and magic cannot age you.</li>
+        <li> You are immune to disease.</li>
+      </ul>
+      <p class="indent">
+        <strong>
+          <em>Core Recovery.</em>
+        </strong> Odari don't need to sleep. Instead, they enter a state of low functionality, allowing their sordalite cores to realign themselves, for 4 hours a day. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</p>
+      <p class="indent">
+        <strong>
+          <em>Custom Purpose.</em>
+        </strong> You gain two skill proficiencies of your choice, or you gain one skill proficiency and one tool proficiency of your choice.</p>
+      <p class="indent">
+        <strong>
+          <em>Living Core.</em>
+        </strong> During a short rest you are able to expend Hit Dice to restore charges to an item. The item regains a number of charges equal to the number of Hit Dice you expend.</p>
+      <p class="indent">
+        <strong>
+          <em>Metallic Plating.</em>
+        </strong> The metal plating covering your body provides you with a base AC of 12 (you add your Dexterity modifier, to a maximum of +2, to this number). You can't wear light, medium, or heavy armor, but if you are using a shield, you can apply the shield's bonus as normal.</p>
+      <p class="indent">
+        <strong>
+          <em>Sordalite Resonance.</em>
+        </strong> You can sense the location of sordalite within 30 feet, regardless of interposing barriers. Additionally, you can sense the location of unrefined sordalite within 90 feet, regardless of interposing barriers.</p>
+      <p class="indent">
+        <strong>
+          <em>Upgradeable Bodies.</em>
+        </strong> You have a sturdy metallic body that is able to be customized.</p>
+      <p class="indent">You can upgrade your body with higher quality materials, increasing your Armor Class or gaining bonuses. There are several examples along with suggested prices listed below, but this is not an exhaustive list. You can replace parts of your body with bionics, only requiring 1 day to attune to them. Your body can withstand being upgraded a number of times equal to your Constitution modifier (minimum of once). Upgrades can be removed returning your body to its original construction, allowing you to gain new bonuses. You can only have one of the same upgrade at a time--for example, an Odari cannot have multiple gold filgree upgrades, nor can it have both iron and titanium plating. Bionics do not count against the number of upgrades you can have.</p>
+      <h5></h5>
+      <table>
+        <thead>
+          <tr>
+            <td>Upgrade</td>
+            <td>Description</td>
+            <td>Bonus</td>
+            <td>Price</td>
+          </tr>
+        </thead>
+        <tr>
+          <td>Titanium Plating</td>
+          <td>Your outer body is replaced with titanium plating.</td>
+          <td>Your base AC increases to 13 and there is no limit when adding your Dexterity modifer to your AC.</td>
+          <td>800 - 1,000 gp</td>
+        </tr>
+        <tr>
+          <td>Iron Plating</td>
+          <td>Your outer body is replaced with iron plating.</td>
+          <td>Your base AC increases to 16 and you have disadvantage on Dexterity (Stealth) checks.</td>
+          <td>800 - 1,000 gp</td>
+        </tr>
+        <tr>
+          <td>Steel Plating</td>
+          <td>Your outer body is replaced with iron plating.</td>
+          <td>Your base AC increases to 18 and you have disadvantage on Dexterity (Stealth) checks.</td>
+          <td>1,500 - 2,000 gp</td>
+        </tr>
+        <tr>
+          <td>Gold Filgree</td>
+          <td>Veins of gold are incorporated to the outer plating of your armor, giving you a regal look.</td>
+          <td>You gain a +1 bonus to Charisma (Persuasion) checks.</td>
+          <td>1,750 - 2,000 gp</td>
+        </tr>
+        <tr>
+          <td>Sordalite Infused</td>
+          <td>Your body is infused with dozens of tiny sordalite shards, reducing your weight.</td>
+          <td>Your weight is halved. Additionally you can long jump and high jump without a running start.</td>
+          <td>1,000 - 1,200 gp</td>
+        </tr>
+        <tr>
+          <td>Spikes</td>
+          <td>Vicious spikes are added to yoru body, giving you an imposing form.</td>
+          <td>You gain advantage on Charisma (Intimidation) checks.</td>
+          <td>1,000 - 1,500 gp</td>
+        </tr>
+        <tr>
+          <td>Integrated Equipment</td>
+          <td>You are able to have a weapon or a tool integrated into your body.</td>
+          <td>A creature cannot disarm an integrated weapon. You have advantage on Dexterity (Sleight of Hand) checks to conceal the integrated weapon or tool.</td>
+          <td>500 - 750 gp</td>
+        </tr>
+      </table>
+      <p class="indent">
+        <strong>
+          <em>Languages.</em>
+        </strong> You can speak, read, and write Common and one extra language of your choice.</p>
+    </description>
+    <setters>
+      <set name="names" type="custom">Anchor, Banner, Bastion, Blade, Blue, Bow, Cart, Church, Crunch, Crystal, Dagger, Dent, Five, Glaive, Hammer, Iron, Lucky, Mace, Oak, Onyx, Pants, Pierce, Red, Rod, Rusty, Scout, Seven, Shield, Slash, Smith, Spike, Temple, Vault, Wall</set>
+      <set name="names-format">{{custom}}</set>
+    </setters>
+    <sheet display="false" />
+    <rules>
+      <select type="Ability Score Improvement" name="Ability Score Increase 2, Odari" supports="ID_INTERNAL_ASI_STRENGTH|ID_INTERNAL_ASI_DEXTERITY|ID_INTERNAL_ASI_INTELLIGENCE|ID_INTERNAL_ASI_WISDOM|ID_INTERNAL_ASI_CHARISMA" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+      <select type="Ability Score Improvement" name="Ability Score Increase, Odari" supports="ID_INTERNAL_ASI_STRENGTH|ID_INTERNAL_ASI_DEXTERITY|ID_INTERNAL_ASI_INTELLIGENCE|ID_INTERNAL_ASI_WISDOM|ID_INTERNAL_ASI_CHARISMA" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+      <select type="Ability Score Improvement" name="Custom Ability Score Improvement +2 (Odari)" supports="Custom Ability Score Increase 2" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+      <select type="Ability Score Improvement" name="Custom Ability Score Improvement +1 (Odari)" supports="Custom Ability Score Increase 1" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+      <grant type="Size" id="ID_SIZE_MEDIUM" />
+      <stat name="innate speed" value="30" bonus="base" />
+      <grant type="Racial Trait" id="ID_AM_FCA_RACIAL_TRAIT_ODARI_CONSTRUCTED_FORM" />
+      <grant type="Racial Trait" id="ID_AM_FCA_RACIAL_TRAIT_ODARI_CORE_RECOVERY" />
+      <grant type="Racial Trait" id="ID_AM_FCA_RACIAL_TRAIT_ODARI_CUSTOM_PURPOSE" />
+      <grant type="Racial Trait" id="ID_AM_FCA_RACIAL_TRAIT_ODARI_LIVING_CORE" />
+      <grant type="Racial Trait" id="ID_AM_FCA_RACIAL_TRAIT_ODARI_METALLIC_PLATING" />
+      <grant type="Racial Trait" id="ID_AM_FCA_RACIAL_TRAIT_ODARI_SORDALITE_RESONANCE" />
+      <grant type="Racial Trait" id="ID_AM_FCA_RACIAL_TRAIT_ODARI_UPGRADEABLE_BODY" />
+      <grant type="Language" id="ID_LANGUAGE_COMMON" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_LANGUAGE" />
+      <select type="Language" name="Customized Language" supports="Custom Race Language" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_LANGUAGE" />
+      <select type="Language" name="Language, Odari" supports="Standard||Exotic" />
+    </rules>
+  </element>
+  <element name="Constructed Form" type="Racial Trait" source="Fool's Crystal Adventure" id="ID_AM_FCA_RACIAL_TRAIT_ODARI_CONSTRUCTED_FORM">
+    <description>
+      <p>You were created to have remarkable fortitude, represented by the following benefits:</p>
+      <ul>
+        <li>You don't need to eat, drink, or breathe.</li>
+        <li>You don't age, and magic cannot age you.</li>
+        <li>You are immune to disease.</li>
+      </ul>
+    </description>
+    <sheet>
+      <description>You have advantage on saving throws against being poisoned, and you have resistance to poison damage.
+			You don’t need to eat, drink, or breathe.
+			You are immune to disease.
+			You don’t need to sleep, and magic can’t put you to sleep.</description>
+    </sheet>
+    <rules>
+      <grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_POISON" />
+    </rules>
+  </element>
+  <element name="Core Recovery" type="Racial Trait" source="Fool's Crystal Adventure" id="ID_AM_FCA_RACIAL_TRAIT_ODARI_CORE_RECOVERY">
+    <description>
+      <p>When you take a long rest, you enter a state of low functionality, allowing their sordalite cores to realign themselves, for six hours a day. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</p>
+    </description>
+    <sheet>
+      <description>When you take a long rest, you enter a state of low functionality, allowing their sordalite cores to realign themselves, for six hours a day. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.</description>
+    </sheet>
+  </element>
+  <element name="Custom Purpose" type="Racial Trait" source="Fool's Crystal Adventure" id="ID_AM_FCA_RACIAL_TRAIT_ODARI_CUSTOM_PURPOSE">
+    <description>
+      <p>You gain two skill proficiencies of your choice or one skill proficiency and one tool proficiency of your choice.</p>
+    </description>
+    <sheet display="false">
+      <description>You gain two skill proficiencies of your choice or one skill proficiency and one tool proficiency of your choice.</description>
+    </sheet>
+    <rules>
+      <select type="Proficiency" name="Skill Proficiency, Custom Purpose" supports="Skill" />
+      <select type="Proficiency" name="Tool or Skill Proficiency, Custom Purpose" supports="Tool||Skill" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_PROFICIENCY" />
+      <select type="Proficiency" name="Simple Weapon or Tool, Specialized Design" supports="Simple||Tool" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_PROFICIENCY" />
+    </rules>
+  </element>
+  <element name="Living Core" type="Racial Trait" source="Fool's Crystal Adventure" id="ID_AM_FCA_RACIAL_TRAIT_ODARI_LIVING_CORE">
+    <description>
+      <p>During a short rest you are able to expend Hit Dice to restore charges to an item. The item regains a number of charges equal to the number of Hit Dice you expend.</p>
+    </description>
+    <sheet>
+      <description>During a short rest you are able to expend Hit Dice to restore charges to an item. The item regains a number of charges equal to the number of Hit Dice you expend.</description>
+    </sheet>
+  </element>
+  <element name="Metallic Plating" type="Racial Trait" source="Fool's Crystal Adventure" id="ID_AM_FCA_RACIAL_TRAIT_ODARI_METALLIC_PLATING">
+    <description>
+      <p>The metal plating covering your body provides you with a base AC of 12 (you add your Dexterity modifier, to a maximum of +2, to this number). You can't wear light, medium, or heavy armor, but if you are using a shield, you can apply the shield's bonus as normal.</p>
+    </description>
+    <sheet>
+      <description>The metal plating covering your body provides you with a base AC of 12 (you add your Dexterity modifier, to a maximum of +2, to this number). You can't wear light, medium, or heavy armor, but if you are using a shield, you can apply the shield's bonus as normal.</description>
+    </sheet>
+    <rules>
+      <stat name="ac:misc" value="2" />
+    </rules>
+  </element>
+  <element name="Sordalite Resonance" type="Racial Trait" source="Fool's Crystal Adventure" id="ID_AM_FCA_RACIAL_TRAIT_ODARI_SORDALITE_RESONANCE">
+    <description>
+      <p>You can sense the location of sordalite within 30 feet, regardless of interposing barriers. Additionally, you can sense the location of unrefined sordalite within 90 feet, regardless of interposing barriers.</p>
+    </description>
+    <sheet>
+      <description>You can sense the location of sordalite within 30 feet, regardless of interposing barriers. Additionally, you can sense the location of unrefined sordalite within 90 feet, regardless of interposing barriers.</description>
+    </sheet>
+  </element>
+  <element name="Upgradeable Body" type="Racial Trait" source="Fool's Crystal Adventure" id="ID_AM_FCA_RACIAL_TRAIT_ODARI_UPGRADEABLE_BODY">
+    <description>
+      <p>You have a sturdy metallic body that is able to be customized.</p>
+    </description>
+    <sheet>
+      <description>You have a sturdy metallic body that is able to be customized.</description>
+    </sheet>
+  </element>
+</elements>
